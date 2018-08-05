@@ -55,6 +55,7 @@ header, nav, footer, section, article, div {
   box-sizing: border-box;
   display: inline-block;
   width: 48%;
+  font-size: 2em;
   text-align: center;
   line-height: 24px;
   padding: 24px;
