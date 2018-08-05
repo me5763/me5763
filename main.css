@@ -62,10 +62,11 @@ header, nav, footer, section, article, div {
   line-height: 24px;
   padding: 24px;
   text-transform: uppercase;
+  color: #fff;
 }
 
 .nav__item__lec {
-  background-color: #FC4A1A;
+  background-color: #F7B733;
 }
 
 .nav__item__lab {
