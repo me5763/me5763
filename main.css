@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5 {
   margin: 0; 
 }
 
-header {
+header, nav, footer, section, article, div {
   box-sizing: border-box;
 }
 
@@ -38,3 +38,37 @@ header {
   display: inline-block;
   color: #212121;
 }
+
+.nav {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav__list {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.nav__item {
+  box-sizing: border-box;
+  display: inline-block;
+  width: 48%;
+  text-align: center;
+  line-height: 24px;
+  padding: 24px;
+  text-transform: uppercase;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #616161;
+}
+
+.nav a:hover {
+  text-decoration: underline;
+  color: #212121;
+}
+
+
