@@ -56,7 +56,7 @@ header, nav, footer, section, article, div {
 .nav__item__lec, .nav__item__lab {
   box-sizing: border-box;
   display: inline-block;
-  width: 48%;
+  width: 25%;
   font-size: 2em;
   text-align: center;
   line-height: 24px;
