@@ -78,7 +78,7 @@ header, nav, footer, section, article, div {
   background-color: #4ABDAC;
 }
 
-.nav__item__lab {
+.nav__item__lab a{
   color: #fff;
 }
 
