@@ -29,12 +29,12 @@ header, nav, footer, section, article, div {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 .header__title {
   font-weight: 300;
   font-size: 3em;
-  text-align: center;
   margin: 0.5em 0.25em;
   display: inline-block;
   color: #212121;
