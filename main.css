@@ -55,6 +55,7 @@ header, nav, footer, section, article, div {
 .nav__item {
   box-sizing: border-box;
   display: inline-block;
+  background-color: 4ABDAC;
   width: 48%;
   font-size: 2em;
   text-align: center;
