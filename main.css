@@ -26,7 +26,7 @@ header, nav, footer, section, article, div {
 }
 
 .header__inner{
-  width: 800px;
+  width: 80%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -40,7 +40,7 @@ header, nav, footer, section, article, div {
 }
 
 .nav {
-  width: 800px;
+  width: 80%;
   margin-left: auto;
   margin-right: auto;
 }
