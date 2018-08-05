@@ -70,21 +70,13 @@ header, nav, footer, section, article, div {
   background-color: #F7B733;
 }
 
-.nav__item__lec a {
-  color: #fff;
-}
-
 .nav__item__lab {
   background-color: #4ABDAC;
 }
 
-.nav__item__lab a{
-  color: #fff;
-}
-
 .nav a {
   text-decoration: none;
-  color: #616161;
+  color: #fff;
 }
 
 .nav a:hover {
