@@ -34,6 +34,7 @@ header, nav, footer, section, article, div {
 .header__title {
   font-weight: 300;
   font-size: 3em;
+  text-align: center;
   margin: 0.5em 0.25em;
   display: inline-block;
   color: #212121;
