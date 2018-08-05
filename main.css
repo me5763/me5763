@@ -53,16 +53,23 @@ header, nav, footer, section, article, div {
   margin: 0;
 }
 
-.nav__item {
+.nav__item__lec, .nav__item__lab {
   box-sizing: border-box;
   display: inline-block;
-  background-color: #4ABDAC;
   width: 48%;
   font-size: 2em;
   text-align: center;
   line-height: 24px;
   padding: 24px;
   text-transform: uppercase;
+}
+
+.nav__item__lec {
+  background-color: #FC4A1A;
+}
+
+.nav__item__lab {
+  background-color: #4ABDAC;
 }
 
 .nav a {
