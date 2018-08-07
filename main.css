@@ -22,7 +22,6 @@ header, nav, footer, section, article, div {
 .header {
   min-height: 56px;
   transition: min-height 0.3s;
-  margin-top: 100px;
 }
 
 .header__inner{
