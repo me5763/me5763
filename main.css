@@ -6,7 +6,7 @@ body, html {
 }
 
 body {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(hero-min.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://images.pexels.com/photos/60130/pexels-photo-60130.jpeg);
   background-size: cover;
   background-position: center;  
   font-family: Roboto;
