@@ -86,4 +86,6 @@ header, nav, footer, section, article, div {
   color: #212121;
 }
 
-
+.icon {
+  padding-right: 3px;
+}
