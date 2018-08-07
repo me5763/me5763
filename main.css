@@ -7,7 +7,7 @@ body, html {
 
 body {
   font-family: Roboto;
-  font-size: 12px;
+  font-size: 16px;
   color: #424242;
 }
 
@@ -20,9 +20,9 @@ header, nav, footer, section, article, div {
 }
 
 .header {
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
   min-height: 56px;
   transition: min-height 0.3s;
+  margin-top: 100px;
 }
 
 .header__inner{
@@ -51,6 +51,8 @@ header, nav, footer, section, article, div {
   width: 100%;
   padding: 0;
   margin: 0;
+  display: flex;
+  justify-content: center;
 }
 
 .nav__item__lec, .nav__item__lab {
@@ -58,8 +60,6 @@ header, nav, footer, section, article, div {
   border-radius: 12px;
   display: inline-block;
   width: 24%;
-  margin-left: 12%;
-  margin-right: 12%;
   font-size: 1.5em;
   text-align: center;
   line-height: 24px;
@@ -69,10 +69,12 @@ header, nav, footer, section, article, div {
 
 .nav__item__lec {
   background-color: #F7B733;
+  margin-right: 10px;
 }
 
 .nav__item__lab {
   background-color: #4ABDAC;
+  margin-left: 10px;
 }
 
 .nav a {
