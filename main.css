@@ -57,7 +57,7 @@ header, nav, footer, section, article, div {
 
 .nav__item__lec, .nav__item__lab {
   box-sizing: border-box;
-  border-radius: 12px;
+  border-radius: 8px;
   display: inline-block;
   width: 24%;
   font-size: 1.5em;
