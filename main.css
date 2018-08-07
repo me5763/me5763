@@ -6,9 +6,13 @@ body, html {
 }
 
 body {
+  
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://fortunedotcom.files.wordpress.com/2017/12/39225582421_a004adf187_k-1.jpg);
+  background-size: cover;
+  background-position: center;  
   font-family: Roboto;
   font-size: 16px;
-  color: #424242;
+  color: #fff;
 }
 
 h1, h2, h3, h4, h5 {
@@ -36,7 +40,7 @@ header, nav, footer, section, article, div {
   font-size: 3em;
   margin: 0.5em 0.25em;
   display: inline-block;
-  color: #212121;
+  color: #fff;
 }
 
 .nav {
