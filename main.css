@@ -42,6 +42,14 @@ header, nav, footer, section, article, div {
   color: #fff;
 }
 
+.header__subtitle {
+  font-weight: 300;
+  font-size: 2em;
+  margin: 0.5em 0.25em;
+  display: inline-block;
+  color: #fff;
+}
+
 .nav {
   width: 80%;
   margin-left: auto;
