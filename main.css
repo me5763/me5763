@@ -43,7 +43,7 @@ header, nav, footer, section, article, div {
 }
 
 .header__subtitle {
-  font-weight: 300;
+  font-weight: 200;
   font-size: 2em;
   margin: 0.5em 0.25em;
   display: inline-block;
